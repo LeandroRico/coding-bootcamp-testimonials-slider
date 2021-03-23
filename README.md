@@ -1,5 +1,7 @@
 # Frontend Mentor - Coding bootcamp testimonials slider
 
+## Live Site URL: [click here.](https://coding-bootcamp-testimonials-slider-orcin.vercel.app/ "click here.")
+
 ![Design preview for the Coding bootcamp testimonials slider coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋

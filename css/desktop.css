@@ -1,0 +1,17 @@
+.slider__image {
+  width: 700px;
+}
+
+.slider__testimonial {
+  width: 760px;
+  height: 345px;
+  margin-right: -200px;
+}
+
+.slider-buttons {
+  left: 220px;
+}
+
+.attribution {
+  font-size: 1.7rem;
+}

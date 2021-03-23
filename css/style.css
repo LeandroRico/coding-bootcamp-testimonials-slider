@@ -120,10 +120,19 @@ main {
   height: 100%;
   align-self: center;
   background: transparent;
+  border-radius: 50px;
   border: none;
   outline: none;
   cursor: pointer;
   background-repeat: no-repeat;
+}
+
+.slider-buttons button:hover {
+  background-color: #c7b7e8;
+}
+
+.slider-buttons button:focus {
+  background-color: #4b40c9;
 }
 
 .slider-buttons__prev,
